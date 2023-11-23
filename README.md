@@ -12,3 +12,6 @@ Nosso objetivo é entregar para a Hapvida e seus pacientes uma forma de consegui
 - MPU6050
 - Board-SSD1306
 # Vídeo Explicativo
+https://www.youtube.com/watch?v=8Gpi1caznSw
+# Simulação Wowki
+https://wokwi.com/projects/382035566355957761
